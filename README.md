@@ -1,19 +1,26 @@
-# Smart Pet Feeder (IoT Project)
+# 🍽️ College Canteen Management System
+
+## Status
+ This project is currently under development
 
 ##  Description
-This project is an IoT-based smart pet feeder designed to automate feeding schedules and allow remote control using a mobile app.
+A web-based canteen management system designed to simplify food ordering, payment, and order tracking for students.
 
-## Features
-- Automated feeding system
-- Remote control via Blynk app
-- Food level monitoring using sensors
-- Buzzer alert system
+##  Features (Planned)
+- Online food ordering system  
+- Digital payment integration (eSewa, Khalti)  
+- Admin dashboard for order management  
+- Real-time order tracking  
 
-## Technologies
-- ESP32
-- Blynk
-- Servo Motor
-- Ultrasonic Sensor
-- HX711 Load Cell
+##  Technologies
+- HTML, CSS, JavaScript  
+- Backend (in progress)  
 
+##  Progress
+-  UI Design Completed  
+-  Basic frontend functionality  
+-  Payment integration (in progress)  
+-  Backend development  
 
+##  Note
+This project is actively being developed and will be updated regularly.
