@@ -16,6 +16,4 @@ This project is an IoT-based smart pet feeder designed to automate feeding sched
 - Ultrasonic Sensor
 - HX711 Load Cell
 
-## Documentation
-See the full project report here:
-- Pet Feeder Document.pdf
+
